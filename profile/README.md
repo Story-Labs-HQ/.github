@@ -1,4 +1,4 @@
-# Story Labs
+# Hi 👋 Welcome to Story Labs!
 
 Story Labs is a free, weekend-long filmmaking event (a "film-a-thon") for teenagers in Sydney run entirely by teenagers, for teenagers.
 
