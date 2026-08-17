@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome to Story Labs!
 
-We're making a free, weekend-long filmmaking event (a "film-a-thon") for teenagers in Sydney run entirely by teenagers, for teenagers. All of our open-source code is available in this organisation.
+We're making a free, weekend-long filmmaking event (a "film-a-thon" in Sydney run entirely by teenagers, for teenagers. All of our open-source code is available in this organisation.
 
 [storylabshq.com](https://www.storylabshq.com/) | [ontikreza@storylabshq.com](mailto:ontikreza@storylabshq.com)
 
