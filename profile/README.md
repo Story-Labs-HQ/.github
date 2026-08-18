@@ -2,9 +2,7 @@
 
 We're making a free, weekend-long filmmaking event (a "film-a-thon" in Sydney run entirely by teenagers, for teenagers. All of our open-source code is available in this organisation.
 
-[storylabshq.com](https://www.storylabshq.com/) | [ontikreza@storylabshq.com](mailto:ontikreza@storylabshq.com)
-
-*For technical enquiries, please reach out to [justin@storylabshq.com](mailto:justin@storylabshq.com)*
+[storylabshq.com](https://www.storylabshq.com/) | [inquiries@storylabshq.com](mailto:inquiries@storylabshq.com)
 
 ---
 
